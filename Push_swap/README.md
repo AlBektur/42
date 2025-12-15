@@ -5,6 +5,8 @@
 > “This is my take on Push Swap — it’s not perfect, but it’s mine.”
 
 ## About
+
+**!!! There is a mistake, if you pass 4 arguments the program ingoners it!!!**
 This is my Push Swap project for 42 School (Barcelona campus).  
 The goal: sort a stack of integers using only two stacks and a very limited set of operations.  
 Sounds simple, but the challenge is to do it with as few moves as possible.
